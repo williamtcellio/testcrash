@@ -1,0 +1,6 @@
+[package]
+name = "testcrash"
+version = "0.1.0"
+authors = ["william <william@tcell.io>"]
+
+[dependencies]
